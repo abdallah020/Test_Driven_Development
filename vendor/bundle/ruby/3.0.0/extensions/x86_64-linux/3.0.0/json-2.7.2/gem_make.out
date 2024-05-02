@@ -1,0 +1,13 @@
+current directory: /home/mansour/Documents/semaine2/jour1/Test_Driven_Development/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240430-24567-t217lx.rb extconf.rb
+creating Makefile
+
+current directory: /home/mansour/Documents/semaine2/jour1/Test_Driven_Development/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\= clean
+
+current directory: /home/mansour/Documents/semaine2/jour1/Test_Driven_Development/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\=
+make: rien à faire pour « all ».
+
+current directory: /home/mansour/Documents/semaine2/jour1/Test_Driven_Development/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\= install
